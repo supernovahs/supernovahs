@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am a Blockchain Developer on Ethereum with interests in Zkps, Auditing, Defi , Bots
+Zero knowledge , MEV, Open Source
 Currently I am working as a Full Stack dev [@BuidlGuidl](https://twitter.com/buidlguidl) under [Austin Griffith](https://twitter.com/austingriffith).
-Learning from buidlers like [@anishagnihotri](https://github.com/Anish-Agnihotri), [@gakonst](https://github.com/gakonst).
+
+Supernova's website[https://supernovahs-com.vercel.app/]
 
 I am always open to building  ,Participating in Hackathons and meetups
 
