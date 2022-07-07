@@ -3,7 +3,7 @@
 Zero knowledge , MEV, Open Source
 Currently I am working as a Full Stack dev [@BuidlGuidl](https://twitter.com/buidlguidl) under [Austin Griffith](https://twitter.com/austingriffith).
 
-Supernova's website[https://supernovahs-com.vercel.app/]
+(Supernova's website)[https://supernovahs-com.vercel.app/]
 
 I am always open to building  ,Participating in Hackathons and meetups
 
