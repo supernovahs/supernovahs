@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Zero knowledge , Open Source
-Currently I am working as a Damage Dealer [@BuidlGuidl](https://twitter.com/buidlguidl) (https://twitter.com/austingriffith).
+Currently I am working as a Damage Dealer [@BuidlGuidl](https://twitter.com/buidlguidl)
 
 [Supernova's website](https://supernovahs-com.vercel.app/)
 
