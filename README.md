@@ -5,7 +5,7 @@ Currently I am working at [@BuidlGuidl](https://buidlguidl.com/builders/0x1b37B1
 
 [Supernova's website](https://supernovahs-com.vercel.app/)
 
-I am always open to building  ,Participating in Hackathons and meetups
+:heart: Auditing [@code4rena](https://code4rena.com/) 
 
 ## 📊 My Github Stats
 
