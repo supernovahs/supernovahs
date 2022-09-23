@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Zero knowledge , Open Source,
-Currently I am working at [@BuidlGuidl](https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8)
+Applied Zero knowledge , Open Source,
+[@BuidlGuidl](https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8) , :heart: Auditing [@code4rena](https://code4rena.com/) 
 
 [Supernova's website](https://supernovahs-com.vercel.app/)
 
-:heart: Auditing [@code4rena](https://code4rena.com/) 
+
 
 ## 📊 My Github Stats
 
