@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Applied Zero knowledge ,Snarks, Open Source,
+Applied Zero knowledge ,Zk-Snarks,
 [@BuidlGuidl](https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8) , [@code4rena](https://code4rena.com/) 
 
 [Supernova's website](https://supernovahs-com.vercel.app/)
