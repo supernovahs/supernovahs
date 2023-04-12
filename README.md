@@ -2,8 +2,11 @@
 
 Security Researcher
 [@sherlock](https://app.sherlock.xyz/audits/contests), [@code4rena](https://code4rena.com/)
+
 Build [@BuidlGuidl](https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8) 
+
 Fellow [@yacademy](https://yacademy.dev/)
+
 Research [@Rareskills](https://github.com/RareSkills)
 
 [Supernova's website](https://supernovahs-com.vercel.app/)
