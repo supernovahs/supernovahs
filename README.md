@@ -9,7 +9,7 @@ Fellow [@yacademy](https://yacademy.dev/)
 
 Research [@Rareskills](https://github.com/RareSkills)
 
-[Supernova's website](https://supernovahs-com.vercel.app/)
+[Supernova's website](https://www.supernovahs.xyz/)
 
 
 
