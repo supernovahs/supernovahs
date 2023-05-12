@@ -28,5 +28,5 @@ Research [@Rareskills](https://github.com/RareSkills)
 
   
 Email - supernovahs@proton.me
-Follow me [@Twitter](https://twitter.com/harshit16024263)
+Follow me [@Twitter](https://twitter.com/supernovahs444)
 
