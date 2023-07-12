@@ -3,9 +3,9 @@
 Security Researcher
 [@sherlock](https://app.sherlock.xyz/audits/contests)
 
-Build [@BuidlGuidl](https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8) 
+Builder [@BuidlGuidl](https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8) 
 
-Research [@Rareskills](https://github.com/RareSkills)
+Research Engineer [@Rareskills](https://github.com/RareSkills)
 
 [Supernova's website](https://www.supernovahs.xyz/)
 
