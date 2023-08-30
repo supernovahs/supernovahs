@@ -1,7 +1,7 @@
 ### Hi there 👋
 🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀
 Security Researcher
-[@sherlock](https://app.sherlock.xyz/audits/contests)
+
 
 Builder [@BuidlGuidl](https://buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8) 
 
