@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=supernovahs&label=Profile%20views&color=0e75b6&style=flat" alt="Supernova's profile views" /> 
+</p>
+
 🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀
 Security Researcher . DM For Audits
 
