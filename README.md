@@ -1,7 +1,6 @@
 ### Hi there 👋
-🦀
 
-Engineer
+To hire me , contact below:-
 
 [Supernova's website](https://www.supernovahs.xyz/)
 
