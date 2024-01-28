@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 Support my OS work on [Juicebox](https://juicebox.money/v2/p/621)
 
